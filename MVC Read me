@@ -1,0 +1,13 @@
+MVC Read me
+
+
+Note:
+
+1.config file inside config folder contains variables and function which is commonly used.
+2.dbUtils or Utilities file contains database connection and runQuery functions.
+3.View contains php and html files.
+4.Controller contains logics and functions of model file and it is called by file in the view folder
+5.Model folder contains file which is used to perform database queries and operations like select,insert,delete etc...
+6.Inside model we create function which is called in controller file and function contains database queries.
+
+php online platform : http://phpfiddle.org/

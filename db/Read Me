@@ -1,0 +1,4 @@
+Note : Please import the products.sql file in localhost/phpmyadmin /
+
+1 . create a new database name it products
+2. click on import and select the file products.sql click on go and import the db.

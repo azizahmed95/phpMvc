@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<root>
+<activity user="User Registration" timestamp="2017-12-28 11:00:35 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:00:44 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:07:16 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="3" state="1" city="11" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '3','1','11','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:11:29 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:13:23 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:16:23 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:17:14 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:22:31 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:24:06 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="mdfhd" lname="ndjkfh" email="jkshdkfh@dfjkh.cok" contact="00304390782" addr1="HSTGYJG" addr2="Gjhgdfg" country="3" state="3" city="14" pincode="93847" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('mdfhd','ndjkfh','jkshdkfh@dfjkh.cok','00304390782',
+					  'HSTGYJG','Gjhgdfg',
+					  '3','3','14','93847',
+					  'img2.jpg')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:28:24 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:29:12 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:29:22 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:35:51 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity><activity user="User Registration" timestamp="2017-12-28 11:37:52 AM" browser="Google Chrome" userIp="::1" device="website"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. User Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="" lname="" email="" contact="" addr1="" addr2="" country="" state="" city="" pincode="" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('','','','',
+					  '','',
+					  '','','','',
+					  '')</insert_query></activity></root>

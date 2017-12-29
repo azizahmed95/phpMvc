@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<root>
+<activity user="User Registration" timestamp="2017-12-27 05:02:16 PM" browser="Google Chrome" userIp="::1" device="app"><request REQUEST_URI="/test2/controller/mycontrol.php" HTTP_REFERER="http://localhost/test2/view/register.php" SESSION_ID=""/><step1>1. Device Registration process start.</step1><step2>2. Getting request parameters for Success.</step2><parameters fname="dfgsdfg" lname="asdfsd" email="sdfsdfsdf" contact="234234" addr1="sdfgsdg" addr2="sdgsdgsdg" country="3" state="3" city="13" pincode="345345" type="register"/><step3>3. Insert new device into table.</step3><insert_query>INSERT INTO register(firstname,lastname,email,contact,address1,address2,country,state,city,pincode,images)
+					  VALUES('dfgsdfg','asdfsd','sdfsdfsdf','234234',
+					  'sdfgsdg','sdgsdgsdg',
+					  '3','3','13','345345',
+					  'img2.jpg')</insert_query></activity></root>
